@@ -1,0 +1,18 @@
+body {
+    background-color: cadetblue;
+
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px blue;
+}
+
+.section style {
+    width: 200px;
+    height: 180px;
+    border: solid;
+    color: blue;
+    font-size: 4px;
+}
